@@ -18,4 +18,7 @@ O projeto é um agregador de links, uma página onde posso mostrar meus gostos d
 
 
 ## 📸 Demonstração
-! [preview] (./.github/preview.png)
+
+![preview](./.github/preview.png)
+
+
