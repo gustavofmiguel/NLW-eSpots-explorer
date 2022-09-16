@@ -65,10 +65,11 @@ section {
 }
 
 section div {
-    background-color:  rgba(21, 20, 26,0.92);
+    background-color:  rgba(21, 20, 26,0.96);
     padding: 32px;
     padding-top: 24px;
-    border-radius: 8px;
+    border-radius: 10px;
+    
 }
 
 section h2 {
@@ -93,15 +94,21 @@ section ul li:hover {
     transform: scale(1.1);
 }
 
+.info{
+    text-align: center;
+    
+    
+}
 .games-list img {
     width: 90px;
     border-radius: 8px;
+    border: 3px solid #36245e;
     
 }
 .channel-list img {
     border-radius: 50%;
     width: 70px;
-    border: 3px solid #443E54;
+    border: 3px solid #36245e;
 }
 
 header div {
